@@ -1,2 +1,1 @@
-# google-homepage
-# google-homepage
+This is Michael's first git project! It is creating a replica of the Google homepage. Once I should be able to apply much of the HTML and CSS learned through Codecamp on this project.
